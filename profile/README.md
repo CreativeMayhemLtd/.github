@@ -15,6 +15,9 @@ An experimental media engine that turns the daily noise of the internet into aut
 Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration.  
 Proof of concept at [**Doomscroll.fm**](https://doomscroll.fm)
 
+###[memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
+
+Hotdog_NotHotDog is a CLIP-based image and video filter that flags NSFW content as NSFW. It runs locally, using either a rules-based policy or a user-trained RandomForest classifier on top of CLIP features. It supports batch processing, GPU acceleration, video frame sampling, and optional auto-tuning to optimize threshold settings. The tool offers a safety layer for ingest and generative media workflows without relying on external services.
 ---
 
 ## Our Philosophy
