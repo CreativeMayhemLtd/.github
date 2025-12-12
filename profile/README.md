@@ -8,12 +8,15 @@ We create **human-scale infrastructure** for a world that’s scaling away from 
 
 ---
 
-## What We’re Currently Building
+## What we've built, our offering:
 
 ### [Memescreamer](https://memescreamer.com)
 An experimental media engine that turns the daily noise of the internet into autonomous broadcast.  
 Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration.  
 Proof of concept at [**Doomscroll.fm**](https://doomscroll.fm)
+
+#### [Framework](https://github.com/CreativeMayhemLtd/Framework)
+A battle-tested SaaS container pattern for deploying industrial-scale digital products. It provides a secure, "six-walled" infrastructure with pre-built modules for authentication, credit-based economies, GDPR compliance, and deep observability. Framework handles the heavy lifting of operations—job queues, billing, and safety—enabling the rapid deployment of secure, private, and scalable platforms without reinventing the foundation.
 
 ### [memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
 Hotdog_NotHotDog is a CLIP-based image and video filter that flags NSFW content as NSFW. It runs locally, using either a rules-based policy or a user-trained RandomForest classifier on top of CLIP features. It supports batch processing, GPU acceleration, video frame sampling, and optional auto-tuning to optimize threshold settings. The tool offers a safety layer for ingest and generative media workflows without relying on external services.
