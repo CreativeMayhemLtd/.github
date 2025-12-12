@@ -15,7 +15,7 @@ An experimental media engine that turns the daily noise of the internet into aut
 Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration.  
 Proof of concept at [**Doomscroll.fm**](https://doomscroll.fm)
 
-#### [Framework](https://github.com/CreativeMayhemLtd/Framework)
+### [Framework](https://github.com/CreativeMayhemLtd/Framework)
 A battle-tested SaaS container pattern for deploying industrial-scale digital products. It provides a secure, "six-walled" infrastructure with pre-built modules for authentication, credit-based economies, GDPR compliance, and deep observability. Framework handles the heavy lifting of operations—job queues, billing, and safety—enabling the rapid deployment of secure, private, and scalable platforms without reinventing the foundation.
 
 ### [memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
