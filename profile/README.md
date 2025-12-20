@@ -2,7 +2,7 @@
 
 ### Human tools for a post-platform world
 
-Creative Mayhem is a hybrid consultancy, studio, and lab building systems that keep people connected to meaning, value, and each other in an age dominated by automation.  
+Creative Mayhem is a hybrid consultancy, studio, and lab building systems that keep people connected to meaning, value, and each other in an age dominated by automation.
 
 We create **human-scale infrastructure** for a world that’s scaling away from people — tools for those who still want to make, trade, play, and communicate.
 
@@ -10,23 +10,34 @@ We create **human-scale infrastructure** for a world that’s scaling away from 
 
 ## What we've built, our offering:
 
+### [Sortalizer](https://sortalizer.com)
+
+**The Closet-to-Craigslist Pipeline.** Sortalizer is a "storage-locker-arbitrage" tool built as a privacy-first, coin-operated AI pipeline. It identifies items, finds sold listings, and writes SEO-optimized descriptions in seconds using five distinct AIs and live market data. It is a neural upgrade designed to collapse the research phase so you can stop researching and start selling.
+
+To turn your research directly into revenue, Sortalizer exports results in a multitude of formats, including **XLS, CSV, JSON, PDF, and HTML**. It also provides specialized platform-ready imports for marketplaces such as **eBay, Poshmark, and Etsy**.
+
+### NSFW as a Service: The Firewall for Your Eyeballs
+
+A coin-operated private-label AI API pipeline for systems that cannot afford ambiguity. Built to ensure users are not sending prohibited content to upstream commercial providers, this service provides high-velocity content classification for the discerning operator. It is designed for platforms that demand consistent results, total operational control, and clean integration into existing pipelines. No public endpoints, no shared models, and no drama—just a bulletproof gatekeeper that stops bad data before it contaminates your environment. Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)  
+
+
+### [Memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
+
+**The Engine.** The open-source core of our NSFW detection. A CLIP-based image and video filter that flags NSFW content and runs locally. It uses either a rules-based policy or a user-trained classifier to give you total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a heavy-duty safety layer without relying on external services.
+
 ### [Memescreamer](https://memescreamer.com)
-An experimental media engine that turns the daily noise of the internet into autonomous broadcast.  
-Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration.  
-Proof of concept at [**Doomscroll.fm**](https://doomscroll.fm)
+
+An experimental AI media engine that turns the daily noise of the internet into autonomous broadcast. Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration. Proof of concept at **[Doomscroll.fm](https://doomscroll.fm)**.
 
 ### [Framework](https://github.com/CreativeMayhemLtd/Framework)
-A battle-tested SaaS container pattern for deploying industrial-scale digital products. It provides a secure, "six-walled" infrastructure with pre-built modules for authentication, credit-based economies, GDPR compliance, and deep observability. Framework handles the heavy lifting of operations—job queues, billing, and safety—enabling the rapid deployment of secure, private, and scalable platforms without reinventing the foundation.
 
-### [memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
-Hotdog_NotHotDog is a CLIP-based image and video filter that flags NSFW content as NSFW. It runs locally, using either a rules-based policy or a user-trained RandomForest classifier on top of CLIP features. It supports batch processing, GPU acceleration, video frame sampling, and optional auto-tuning to optimize threshold settings. The tool offers a safety layer for ingest and generative media workflows without relying on external services.
+**The Foundation.** Framework is the underlying substrate for just about every product we run. It is a battle-tested SaaS container pattern for deploying industrial-scale digital products. It provides a secure, "six-walled" infrastructure with pre-built modules for authentication, credit-based economies, GDPR compliance, and deep observability. Framework handles the heavy lifting of operations—job queues, billing, and safety—enabling the rapid deployment of secure, private, and scalable platforms without reinventing the foundation.
 
 ---
 
 ## Our Philosophy
 
-Humans will need independent, peer-to-peer systems to survive in B2AI economies.  
-Creative Mayhem builds those systems — practical tools for communication, entertainment, exchange, and creative resilience.  
+Humans will need independent, peer-to-peer systems to survive in B2AI economies. Creative Mayhem builds those systems — practical tools for communication, entertainment, exchange, and creative resilience.
 
 We design for clarity, autonomy, and endurance. Our work favors small, local, inspectable tools over opaque networks. What matters is keeping human circuits alive and generative, not nostalgic.
 
@@ -34,17 +45,18 @@ We design for clarity, autonomy, and endurance. Our work favors small, local, in
 
 ## Security and Integrity
 
-Security is not a feature — it is a condition.  
-A system remains secure only while it’s observable, understandable, and within human control.  
-We build with privacy, minimal data, and independence in mind.  
+Security is not a feature, but it is a condition. A system remains secure only while it’s observable, understandable, and within human control. We build with privacy, minimal data, and independence in mind.
 
 **Our principles:**
-- **Transparency:** Trust comes from visibility and comprehension.  
-- **Autonomy:** Control belongs to the operator, not the vendor.  
-- **Resilience:** Systems should serve human intent, even under stress or failure.  
+
+* **Transparency:** Trust comes from visibility and comprehension.
+* **Autonomy:** Control belongs to the operator, not the vendor.
+* **Resilience:** Systems should serve human intent, even under stress or failure.
 
 Security, for us, is not a static goal but a living relationship between people and their tools.
 
 ---
-📧 [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)  
+
+📧 [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)
+
 🌐 [https://creativemayhem.ltd](https://creativemayhem.ltd)
