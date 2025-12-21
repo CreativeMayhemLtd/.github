@@ -14,11 +14,13 @@ Creative Mayhem is a hybrid consultancy, studio, and lab building systems that k
 
 Turn your doom piles into cash, Sortalizer exports results in many formats including specific online-markets and **XLS, CSV, JSON, PDF, and HTML**, giving you control over your inventory from a photo.
 
+Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platform.
+
 ---
 
 ### NSFW as a Service: The Firewall for Your Eyeballs
 
-A coin-operated private-label AI API pipeline for systems that cannot afford ambiguity. Built to ensure users are not sending prohibited content to upstream commercial providers, this service provides high-velocity content classification for the discerning operator. It is designed for platforms that demand consistent results, total operational control, and clean integration into existing pipelines. No public endpoints, no shared models, and no drama—just a bulletproof gatekeeper that stops bad data before it contaminates your environment. Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)  
+A coin-operated private-label AI API pipeline for systems that cannot afford ambiguity. Built to ensure users are not sending prohibited content to upstream commercial providers, this service provides high-velocity content classification for the discerning operator. It is designed for platforms that demand consistent results, total operational control, and clean integration into existing pipelines. No public endpoints, no shared models, and no drama—just a bulletproof gatekeeper that stops bad data before it contaminates your environment. Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)    Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platform.
 
 ### [Memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
 
