@@ -24,7 +24,8 @@ A coin-operated private-label AI API pipeline for systems that cannot afford amb
 
 Interested? Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)    
 
-Used in [Sortalizer.com](https://sortalizer.com) and other products
+Used in [Sortalizer.com](https://sortalizer.com) and other products.
+
 Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platform.
 
 ### [Memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
