@@ -2,9 +2,7 @@
 
 ### Human tools for a post-platform world
 
-Creative Mayhem is a hybrid consultancy, studio, and lab building systems that keep people connected to meaning, value, and each other in an age dominated by automation.
-
-We create **human-scale infrastructure** for a world that’s scaling away from people; tools for those who still want to make, trade, play, and communicate.
+Creative Mayhem is a hybrid consultancy, studio, and lab building systems that keep people connected to meaning, value, and each other in an age dominated by automation. We create **human-scale infrastructure** for a world that’s scaling away from people.
 
 ---
 
