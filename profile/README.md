@@ -36,7 +36,7 @@ An experimental AI media engine that turns the daily noise of the internet into 
 
 ### [Framework](https://github.com/CreativeMayhemLtd/Framework)
 
-**The Foundation.** Framework is the underlying substrate for just about every product we run. It is a battle-tested SaaS container pattern for deploying industrial-scale digital products. It provides a secure, "six-walled" infrastructure with pre-built modules for authentication, credit-based economies, GDPR compliance, and deep observability. Framework handles the heavy lifting of operations—job queues, billing, and safety—enabling the rapid deployment of secure, private, and scalable platforms without reinventing the foundation.
+**The Foundation.** Framework is the underlying substrate for just about every product we run. It is a battle-tested SaaS container pattern for deploying industrial-scale digital products. It provides a secure, "six-walled" infrastructure with pre-built modules for authentication, credit-based economies, GDPR compliance, and deep observability. Framework handles the heavy lifting of operations—job queues, billing, and safety. Framework enables rapid deployment of secure, private, and scalable platforms without reinventing the foundation.
 
 ---
 
