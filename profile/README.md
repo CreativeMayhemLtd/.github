@@ -16,18 +16,23 @@ We create **human-scale infrastructure** for a world that’s scaling away from 
 
 To turn your research directly into revenue, Sortalizer exports results in a multitude of formats, including **XLS, CSV, JSON, PDF, and HTML**. It also provides specialized platform-ready imports for marketplaces such as **eBay, Poshmark, and Etsy**.
 
+---
+
 ### NSFW as a Service: The Firewall for Your Eyeballs
 
 A coin-operated private-label AI API pipeline for systems that cannot afford ambiguity. Built to ensure users are not sending prohibited content to upstream commercial providers, this service provides high-velocity content classification for the discerning operator. It is designed for platforms that demand consistent results, total operational control, and clean integration into existing pipelines. No public endpoints, no shared models, and no drama—just a bulletproof gatekeeper that stops bad data before it contaminates your environment. Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)  
-
 
 ### [Memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
 
 **The Engine.** The open-source core of our NSFW detection in 'host it yourself' format. A CLIP-based image and video filter that flags NSFW content and runs locally. It uses either a rules-based policy or a user-trained classifier to give you total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a heavy-duty safety layer without relying on external services.
 
+---
+
 ### [Memescreamer](https://memescreamer.com)
 
 An experimental AI media engine that turns the daily noise of the internet into autonomous broadcast. Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration. Proof of concept at **[Doomscroll.fm](https://doomscroll.fm)**.
+
+---
 
 ### [Framework](https://github.com/CreativeMayhemLtd/Framework)
 
