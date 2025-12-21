@@ -24,7 +24,7 @@ A coin-operated private-label AI API pipeline for systems that cannot afford amb
 
 **The Engine.** The open-source core of our NSFW as a Service in 'host it yourself' format. A CLIP-based image and video filter that flags NSFW content and runs locally. It uses either a rules-based policy or a user-trained classifier to give you total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a heavy-duty safety layer without relying on external services.
 
-Both of these contexts are used in the [Doomscroll.fm](https://doomscroll.fm) and [Sortalizer.com](https://sortalizer.com) products
+Both of these contexts are used in the Memescreamer - [Doomscroll.fm](https://doomscroll.fm) and [Sortalizer.com](https://sortalizer.com) products
 
 ---
 
