@@ -12,7 +12,7 @@ We create **human-scale infrastructure** for a world that’s scaling away from 
 
 ### [Sortalizer](https://sortalizer.com)
 
-**Sortalizer is a "storage-locker-arbitrage" tool ** that is built as a privacy-first, coin-operated AI pipeline. It identifies items, finds sold listings, and writes SEO-optimized descriptions in seconds using five distinct AIs and live market data. It is a neural upgrade designed to collapse the research phase so you can stop researching and start selling.
+**Sortalizer is a "storage-locker-arbitrage" tool** that is built as a privacy-first, coin-operated AI pipeline. It identifies items, finds sold listings, and writes SEO-optimized descriptions in seconds using five distinct AIs and live market data. It is a neural upgrade designed to collapse the research phase so you can stop researching and start selling.
 
 Turn your doom piles into cash, Sortalizer exports results in many formats including specific online-markets and **XLS, CSV, JSON, PDF, and HTML**, giving you control over your inventory from a photo.
 
