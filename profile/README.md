@@ -14,7 +14,7 @@ We create **human-scale infrastructure** for a world that’s scaling away from 
 
 **The Closet-to-Craigslist Pipeline.** Sortalizer is a "storage-locker-arbitrage" tool built as a privacy-first, coin-operated AI pipeline. It identifies items, finds sold listings, and writes SEO-optimized descriptions in seconds using five distinct AIs and live market data. It is a neural upgrade designed to collapse the research phase so you can stop researching and start selling.
 
-To turn your research directly into revenue, Sortalizer exports results in a multitude of formats, including **XLS, CSV, JSON, PDF, and HTML**. It also provides specialized platform-ready imports for marketplaces such as **eBay, Poshmark, and Etsy**.
+Turn your doom piles into cash, Sortalizer exports results in many formats including specific online-markets and **XLS, CSV, JSON, PDF, and HTML**, giving you control over your inventory from a photo.
 
 ---
 
