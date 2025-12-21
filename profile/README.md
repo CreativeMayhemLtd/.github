@@ -30,7 +30,7 @@ A coin-operated private-label AI API pipeline for systems that cannot afford amb
 
 ### [Memescreamer](https://memescreamer.com)
 
-An experimental AI media engine that turns the daily noise of the internet into autonomous broadcast. Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration. Proof of concept at **[Doomscroll.fm](https://doomscroll.fm)**.
+An experimental AI media engine that turns the daily noise of the internet into autonomous broadcast. Each episode is generated from real headlines and social flux, creating narrative, voice, and music through machine collaboration. Proof of product capability at **[Doomscroll.fm](https://doomscroll.fm)**.
 
 ---
 
