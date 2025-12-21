@@ -42,7 +42,7 @@ An experimental AI media engine that turns the daily noise of the internet into 
 
 ## Our Philosophy
 
-Humans will need independent, peer-to-peer systems to survive in B2AI economies. Creative Mayhem builds those systems — practical tools for communication, entertainment, exchange, and creative resilience.
+Humans will need independent, peer-to-peer systems to survive in B2AI economies. Creative Mayhem builds those systems; practical tools for communication, entertainment, exchange, and creative resilience.
 
 We design for clarity, autonomy, and endurance. Our work favors small, local, inspectable tools over opaque networks. What matters is keeping human circuits alive and generative, not nostalgic.
 
