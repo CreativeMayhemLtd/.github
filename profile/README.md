@@ -14,7 +14,7 @@ Creative Mayhem is a hybrid consultancy, studio, and lab building systems that k
 
 Turn your doom piles into cash, Sortalizer exports results in many formats including specific online-markets and **XLS, CSV, JSON, PDF, and HTML**, giving you control over your inventory from a photo.
 
-Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platform.
+Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platform.  | [Sortalizer Issue Tracker](https://github.com/CreativeMayhemLtd/Sortalizer)
 
 ---
 
