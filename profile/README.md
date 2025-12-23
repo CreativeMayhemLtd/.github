@@ -18,9 +18,9 @@ Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platfor
 
 ---
 
-### NSFW as a Service and SFW as a Service: The Firewall for Your Eyeballs
+### N/SFW as a Service: The Firewall for Your Eyeballs
 
-[Not Safe For Work as a Service](https://github.com/CreativeMayhemLtd/NSFWaaS) AKA. Safe For Work as a Service, A private-label AI API pipeline for systems that cannot afford ambiguity. Built to ensure users are not sending prohibited content to upstream commercial providers or downstream to consumers or the public. This service provides high-velocity content classification for the discerning operator. It is designed for platforms that demand consistent results, total operational control, and clean integration into existing pipelines. No public endpoints, no shared models, and no drama—just a bulletproof gatekeeper that stops bad data before it contaminates your environment. 
+[Not/Safe For Work as a Service](https://github.com/CreativeMayhemLtd/NSFWaaS)  A private-label AI API pipeline for systems that cannot afford ambiguity. Built to ensure users are not sending prohibited content to upstream commercial providers or downstream to consumers or the public. This service provides high-velocity content classification for the discerning operator. It is designed for platforms that demand consistent results, total operational control, and clean integration into existing pipelines. No public endpoints, no shared models, and no drama—just a bulletproof gatekeeper that stops bad data before it contaminates your environment. 
 
 Interested? Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)    
 
