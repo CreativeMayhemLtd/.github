@@ -32,7 +32,7 @@ Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platfor
 
 **The Engine.** The untuned, untrained, low performance, open-source core of our N/SFW as a Service in 'host it yourself' format. A CLIP-based image and video filter that flags N/SFW content and runs locally. It uses either a rules-based policy or a user-trained classifier to give you total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a heavy-duty safety layer without relying on external services. It is not tuned for performance, please see readme.md for more info.
 
-Used in the Memescreamer - [Doomscroll.fm](https://doomscroll.fm) and [Sortalizer.com](https://sortalizer.com) products
+Used in the Memescreamer - [Doomscroll.fm](https://doomscroll.fm) 
 
 ---
 
