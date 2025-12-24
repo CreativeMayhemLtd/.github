@@ -35,7 +35,7 @@ Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platfor
 Used in the Memescreamer - [Doomscroll.fm](https://doomscroll.fm) 
 
 ---
-### Memescreamer  A live, autonomous media and inference pipeline that stress-tests generative systems under real-world load, policy pressure, and failure conditions.
+### [Memescreamer](https://memescreamer.com)  A live, autonomous media and inference pipeline that stress-tests generative systems under real-world load, policy pressure, and failure conditions.
 
 An autonomous AI media and inference engine that converts live internet signal into continuous broadcast. It ingests real headlines and social flux, then generates narrative, voice, music, and video through fully automated orchestration.
 
