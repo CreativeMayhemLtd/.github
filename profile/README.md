@@ -20,7 +20,7 @@ Built on the [Framework](https://github.com/CreativeMayhemLtd/Framework) platfor
 
 ### N/SFW as a Service: The Firewall for Your Eyeballs
 
-[Not/Safe For Work as a Service](https://github.com/CreativeMayhemLtd/NSFWaaS)  A private-label AI API pipeline for systems that cannot afford ambiguity. Built on a tailor made ICP-Proxy-Like Architecture, this service ensures a cryptographically verifiable buffer between high-risk AI generation and your corporate environment. It is designed for platforms that demand consistent results, total operational control, and absolute privacy through decentralized gateways. No public endpoints, no direct IP exposure, and no drama—just a bulletproof, zero-knowledge gatekeeper that stops bad data before it contaminates your environment.
+[Not/Safe For Work as a Service](https://github.com/CreativeMayhemLtd/NSFWaaS)  A private-label AI API pipeline for systems that cannot afford ambiguity. Built on a tailor made ICP-Proxy-Like Architecture, this service ensures a cryptographically verifiable buffer between high-risk AI generation and your corporate environment. It is designed for platforms that demand consistent results, total operational control, and absolute privacy through decentralized gateways. No public endpoints, no direct IP exposure, and no drama. Just a bulletproof, zero-knowledge gatekeeper that stops bad data before it contaminates your environment.
 
 The ICP Advantage
 Zero-Knowledge Filtering: Decentralized canisters verify content before it ever touches your local network, breaking the chain of custody for prohibited material before it affects your risk appetite.
