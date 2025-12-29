@@ -33,11 +33,14 @@ Used in Sortalizer.com and other products.
 Built on the Framework platform.
 Interested? Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)    
 
+--
+
 ### [Memescreamer_Hotdog_NotHotdog](https://github.com/CreativeMayhemLtd/memescreamer_Hotdog_NotHotdog)
 
-**The Engine.** The untuned, untrained, low performance, open-source core of our N/SFW as a Service in 'host it yourself' format. A CLIP-based image and video filter that flags N/SFW content and runs locally. It uses either a rules-based policy or a user-trained classifier to give you total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a heavy-duty safety layer without relying on external services. It is not tuned for performance, please see readme.md for more info.
+**The Engine.** The open-source core of our N/SFW as a Service in 'host it yourself' and untrained format. A CLIP-based image and video filter that flags NSFW content and runs locally. Use either a rules-based policy or a user-trained classifier to give yourself total sovereignty over your ingest and generative media workflows. It supports batch processing, GPU acceleration, and video frame sampling, providing a high-velocity safety layer without relying on external commercial services. Please read license agreement prior to commerical use.
 
-Used in the Memescreamer - [Doomscroll.fm](https://doomscroll.fm) 
+Used in Memescreamer and the [Doomscroll.fm](https://doomscroll.fm) for both ingest and output, and [Sortalizer.com](https://sortalizer.com) image ingest analysis.
+
 
 ---
 ### [Memescreamer](https://memescreamer.com)  A live, autonomous media and inference pipeline that stress-tests generative systems under real-world load, policy pressure, and failure conditions.
