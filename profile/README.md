@@ -31,7 +31,7 @@ Interested? Serious Private Inquiries only: info@creativemayhem.ltd
 Used in Sortalizer.com and other products.
 
 Built on the Framework platform.
-Interested? Serious Private Inquires only [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)    
+Interested? Serious Private Inquires only [info@creativemayhem.com](mailto:info@creativemayhem.com)    
 
 --
 
@@ -81,6 +81,6 @@ Security, for us, is not a static goal but a living relationship between people 
 
 ---
 
-📧 [info@creativemayhem.ltd](mailto:info@creativemayhem.com)
+📧 [info@creativemayhem.com](mailto:info@creativemayhem.com)
 
-🌐 [https://creativemayhem.ltd](https://creativemayhem.com)
+🌐 [https://creativemayhem.com](https://creativemayhem.com)
