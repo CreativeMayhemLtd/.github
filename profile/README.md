@@ -26,7 +26,7 @@ The ICP Advantage
 Zero-Knowledge Filtering: Decentralized canisters verify content before it ever touches your local network, breaking the chain of custody for prohibited material before it affects your risk appetite.
 Decentralized Proxy: Hides your industrial infrastructure behind a cryptographically secured layer, making master libraries impossible to scrape or trace.
 Genuine Deniability: Provides a "bleached" data stream to consumers, ensuring the enterprise never "possesses" the raw, liability-inducing data.
-Interested? Serious Private Inquiries only: info@creativemayhem.ltd
+Interested? Serious Private Inquiries only: info@creativemayhem.com
 
 Used in Sortalizer.com and other products.
 
