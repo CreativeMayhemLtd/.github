@@ -1,4 +1,4 @@
-# Creative Mayhem, Ltd.
+# Creative Mayhem.
 
 ### Human tools for a post-platform world
 
@@ -40,5 +40,5 @@ We build with privacy, minimal data, and independence in mind.
 Security, for us, is not a static goal but a living relationship between people and their tools.
 
 ---
-📧 [info@creativemayhem.ltd](mailto:info@creativemayhem.ltd)  
-🌐 [https://creativemayhem.ltd](https://creativemayhem.ltd)
+📧 [info@creativemayhem.com](mailto:info@creativemayhem.com)  
+🌐 [https://creativemayhem.com](https://creativemayhem.com)
