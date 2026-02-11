@@ -12,7 +12,7 @@ Creative Mayhem is a hybrid consultancy, studio, and lab building systems that k
 
 **Generative Information Ontology. One AI's answer is marketing. Four AIs diverging is signal.**
 
-OpenGIO queries four major LLM providers simultaneously (OpenAI, Anthropic, Google, xAI) and maps how each perceives and represents topics across 40+ semantic attributes in 3D semantic space. When providers agree, that's consensus. When they fragment, that's the story.
+OpenGIO queries four major LLM providers simultaneously (OpenAI, Anthropic, Google, xAI) and maps how each perceives and represents topics across 75+ semantic attributes in 3D semantic space. When providers agree, that's consensus. When they fragment, that's the story.
 
 ## What it does
 
