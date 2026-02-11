@@ -6,7 +6,34 @@ Creative Mayhem is a hybrid consultancy, studio, and lab building systems that k
 
 ---
 
-## What we've built, our offering:
+## What we've built:
+
+### [OpenGIO](https://OpenGIO.com)
+
+**Generative Information Ontology. One AI's answer is marketing. Four AIs diverging is signal.**
+
+OpenGIO queries four major LLM providers simultaneously (OpenAI, Anthropic, Google, xAI) and maps how each perceives and represents topics across 40+ semantic attributes in 3D semantic space. When providers agree, that's consensus. When they fragment, that's the story.
+
+## What it does
+
+- Simultaneous multi-provider LLM analysis across 40+ semantic attributes
+- 45+ analytical lenses (Ikigai, Ubuntu, Kintsugi, Monomyth, and more)
+- DSM-5 psychometric calibration of each provider before measurement
+- Daily drift tracking with variance thresholds (V_MAX) that flag narrative fragmentation
+- Correlation engine against GDELT news volume and market volume.
+- 3D semantic visualization via Three.js
+
+## Status
+
+Closed beta.
+
+Currently in discussion with European Commission DSA enforcement regarding use as an independent AI behavioral monitoring instrument.
+
+## The point
+
+Humans, Businesses, and Regulators are arguing about AI bias with anecdotes. We measure it. Daily. Across providers. With math, providing actionable information.
+
+---
 
 ### [Sortalizer](https://sortalizer.com)
 
