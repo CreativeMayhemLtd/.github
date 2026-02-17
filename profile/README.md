@@ -27,8 +27,6 @@ OpenGIO queries four major LLM providers simultaneously (OpenAI, Anthropic, Goog
 
 Closed beta.
 
-Currently in discussion with European Commission DSA enforcement regarding use as an independent AI behavioral monitoring instrument.
-
 ## The point
 
 Humans, Businesses, and Regulators are arguing about AI bias with anecdotes. We measure it. Daily. Across providers. With math, providing actionable information.
